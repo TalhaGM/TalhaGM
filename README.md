@@ -1,16 +1,19 @@
-## Hi there 👋
 
-<!--
-**TalhaGM/TalhaGM** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#  TALHA's WORLD
 
-Here are some ideas to get you started:
+## Skills 
+-React-Native
+-DecisionTrees
+etc..
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+- [Awesome Project](https://github.com/yourusername/awesome-project) - A cool project that does amazing things.
+- [Another Project](https://github.com/yourusername/another-project) - Description of another project.
+
+## GitHub Stats
+![Talha's Stats](https://github-readme-stats.vercel.app/api?username=TalhaGM&theme=dark&show_icons=true&hide_border=true&count_private=true)
+// ## Contact 
+//  Email: your.email@example.com
+//  LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+
+
