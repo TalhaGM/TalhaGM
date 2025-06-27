@@ -9,5 +9,7 @@ etc..
 ## GitHub Stats
 <h4 align="center">  ![Talha's Stats](https://github-readme-stats.vercel.app/api?username=TalhaGM&theme=dark&show_icons=true&hide_border=true&count_private=true) </h4>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=TalhaGM&theme=dark&show_icons=true&hide_border=true&count_private=true" alt="Talha's Stats">
+</div>
 
-//a 
