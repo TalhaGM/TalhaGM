@@ -1,4 +1,5 @@
 #  TALHA 
+![TalhaGM's Streak](https://github-readme-streak-stats.herokuapp.com/?user=TalhaGM&theme=dark&hide_border=true)
 ## Skills 
 -React-Native
 -DecisionTrees
