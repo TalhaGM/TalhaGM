@@ -12,4 +12,6 @@ etc..
 ![TalhaGM's Streak](https://streak-stats.demolab.com?user=TalhaGM&theme=dark&hide_border=true)
 
 ![TalhaGM's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TalhaGM&theme=dark&show_icons=true&hide_border=true&layout=compact)
+#aaaaaaaa
+![TalhaGM's Streak](https://streak-stats.demolab.com?user=TalhaGM&theme=dark&hide_border=true)
 
