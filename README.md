@@ -1,5 +1,7 @@
 #  TALHA 
 ## Skills 
+-Computer Enginner Degre
+-C.1 Lv English   // //
 -React-Native
 -DecisionTrees
 etc..
