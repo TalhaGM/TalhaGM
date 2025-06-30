@@ -1,9 +1,9 @@
 #  TALHA 
 ## Skills 
--Computer Enginner Degre
--C.1 Lv English   // //
--React-Native
--DecisionTrees
+- Computer Enginner Degre
+- C.1 Lv English   // //
+- React-Native
+- DecisionTrees
 etc..
 ## Projects
 - [Applicaiton for GeredeJelatin Company](https://github.com/TalhaGM/MobilUygulamaGelistirme) - Mobil application via using React-Native for GeredeJelatin company administory and workers
