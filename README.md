@@ -16,4 +16,6 @@ etc..
 
 ![TalhaGM's Streak](https://streak-stats.demolab.com?user=TalhaGM&theme=dark&hide_border=true)
 
+![TalhaGM's Streak](https://streak-stats.demolab.com?user=TalhaGM&theme=dark&hide_border=true)
+
 ![TalhaGM's Stats](https://github-readme-stats.vercel.app/api?username=TalhaGM&theme=dark&show_icons=true&hide_border=true&count_private=true)
