@@ -6,8 +6,10 @@
 </h1>
 
 ## Skills 
-- Computer Enginner Degree
-- English – B2 (Upper-Intermediate) 
+
+  > Computer Enginner Degree
+
+  > English – B2 (Upper-Intermediate) 
 - React-Native
 - Virtualization: VirtualBox, VMware
 - Cloud Computing: GoogleCloud, AWS, Azure 
