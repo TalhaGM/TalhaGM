@@ -5,17 +5,16 @@
   </a>
 </h1>
 
-## Skills 
-
-  > Computer Enginner Degree
-
-  > English – B2 (Upper-Intermediate) 
+## Skills
+```
+- Computer Enginner Degree
+- English – B2 (Upper-Intermediate) 
 - React-Native
 - Virtualization: VirtualBox, VMware
 - Cloud Computing: GoogleCloud, AWS, Azure 
 - Machine Learning: Decision Trees 
 - Microcontrollers: Arduino, RaspberryPi, ESP32 
-  
+```
 ## Projects
 - [Applicaiton for GeredeJelatin Company](https://github.com/TalhaGM/GeredeJelatinApp)
   > Mobil application via using React-Native for GeredeJelatin company.
