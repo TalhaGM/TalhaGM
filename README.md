@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-# Skills 
+## Skills 
 - Computer Enginner Degree
 - English – B2 (Upper-Intermediate) 
 - React-Native
