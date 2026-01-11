@@ -15,8 +15,9 @@
 - Microcontrollers: Arduino, RaspberryPi, ESP32 
   
 ## Projects
-- [Applicaiton for GeredeJelatin Company](https://github.com/TalhaGM/GeredeJelatinApp) - Mobil application via using React-Native for GeredeJelatin company.
-- [DecisionTreeWithPython](https://github.com/TalhaGM/DecisionTreeWithPython) - Listing in gorups 5000 kidney failure patients data by using Python AI via JupterNb.
+- [Applicaiton for GeredeJelatin Company](https://github.com/TalhaGM/GeredeJelatinApp)
+- > Mobil application via using React-Native for GeredeJelatin company.
+- [DecisionTreeWithPython](https://github.com/TalhaGM/DecisionTreeWithPython) > Listing in gorups 5000 kidney failure patients data by using Python AI via JupterNb.
 - [Application for Sakarya Araştırma Hospital](https://github.com/TalhaGM/MobilUygulamaGelistirme) - Patience tracking for "Sakarya Araştırma" hospital with React-Native.
 
 
